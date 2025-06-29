@@ -1,0 +1,18 @@
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color:aliceblue;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#message {
+    color: green;
+    font-weight: bold;
+    margin-top: 20px;
+}
